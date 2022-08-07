@@ -1,7 +1,7 @@
 Origin: novpnproxy
 Label: novpnproxy
 Codename: stable
-Architectures: i386 amd64 arm64
+Architectures: i386 amd64 arm64 armhf
 Components: main
 Description: Apt repository for project novpnproxy
 SignWith: E2C5AA5300FF0296BF9A2DB7C89CEC6DF25F1EC0
