@@ -1,0 +1,5 @@
+Component: main
+Origin: novpnproxy
+Label: novpnproxy
+Architecture: i386
+Description: Apt repository for project novpnproxy

@@ -1,0 +1,15 @@
+Package: novpnproxy-client
+Version: 0.1.0
+Architecture: i386
+Maintainer: Domen Ipavec <domen.ipavec@gmail.com>
+Installed-Size: 9564
+Homepage: https://novpnproxy.com
+Priority: optional
+Section: 
+Filename: pool/main/n/novpnproxy-client/novpnproxy-client_0.1.0_i386.deb
+Size: 4087092
+SHA256: 2f35156ed98211a49a027522321130750980b5d5aef35d75eff3366db8137532
+SHA1: 27f8bdb75575c00610798a3327d4008600c561c4
+MD5sum: ca208eb7d440c951f4ca14a4e7768137
+Description: no description given
+
