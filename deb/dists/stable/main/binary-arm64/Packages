@@ -1,15 +1,15 @@
 Package: novpnproxy-client
-Version: 0.1.0
+Version: 0.1.2
 Architecture: arm64
 Maintainer: Domen Ipavec <domen.ipavec@gmail.com>
-Installed-Size: 9728
+Installed-Size: 9344
 Homepage: https://novpnproxy.com
 Priority: optional
 Section: 
-Filename: pool/main/n/novpnproxy-client/novpnproxy-client_0.1.0_arm64.deb
-Size: 3942788
-SHA256: bb20f278af6cbd968eade9b8e513555e97f7a8c18db31142cc6960c6bd4a51f5
-SHA1: 247458c0790a0c0b802ad0bdf3eaac7d8805a8bb
-MD5sum: 18f497402d4bec3d46e2e98f7a493e06
+Filename: pool/main/n/novpnproxy-client/novpnproxy-client_0.1.2_arm64.deb
+Size: 3739166
+SHA256: 50b85ead356fb1b951fdb9b85767a46ab2529d6c30b46522d9ca387c6787a4e7
+SHA1: 0cf20c61bf224cd9a83fb5650f22d550605db14e
+MD5sum: 12b69ca07a2a8ac889605c8571df64aa
 Description: no description given
 
