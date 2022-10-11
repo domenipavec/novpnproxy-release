@@ -1,15 +1,15 @@
 Package: novpnproxy-client
-Version: 0.1.4
+Version: 0.1.5
 Architecture: armhf
 Maintainer: Domen Ipavec <domen.ipavec@gmail.com>
 Installed-Size: 9152
 Homepage: https://novpnproxy.com
 Priority: optional
 Section: 
-Filename: pool/main/n/novpnproxy-client/novpnproxy-client_0.1.4_armhf.deb
-Size: 3836530
-SHA256: dde4e45bd3d078a3a6161dffe7c97c06c0142845ab2bb3d3d9e092bb52385c4c
-SHA1: cb954669cee1db3cf63eb903c5f2a013a26e7546
-MD5sum: cb1d96963b1dcb5597cfccde553d5a84
+Filename: pool/main/n/novpnproxy-client/novpnproxy-client_0.1.5_armhf.deb
+Size: 3837452
+SHA256: be2cb195876c33ac1407f08d51df5046d481fc026731bbeb7f20121065366ff2
+SHA1: f16ee78ea3f5669f7f3d67fbf86c6aa8c8d5f60e
+MD5sum: 9eb73ae1ae43ee813727e3cd24ff485a
 Description: no description given
 
